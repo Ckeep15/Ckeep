@@ -25,7 +25,5 @@ Ahora mismo solo tengo un proyecto enmente **NeonRP**.
 |              MEDIA             	|       NOMBRE       	|
 |:----------------------------:	|:-------------------:	|
 | 📧  	| unaietxeberria600@gmail.com	|
-| ![Discord](_ckeep_#8441) 	| [Soporte CactusFire](https://discord.cactusfire.xyz)	|
-| ![Twitter](https://i.imgur.com/HeZ0zJn.png) 	| [CactusFire en Twitter](https://twitter.com/CactusFire/)	|
-| ![Instagram](https://i.imgur.com/tu01NLm.png) 	| [CactusFire en Instagram](https://www.instagram.com/cactusfirebot/)	|
-| ![TikTok](https://media.discordapp.net/attachments/763587528083112016/789208444006825984/5cb78678a7c7755bf004c14c.png?width=25&height=25) 	| [CactusFire en Tiktok](https://www.tiktok.com/@cactusfirebot)	|
+| ![Discord](https://media.discordapp.net/attachments/763587528083112016/789207824521625680/1200px-Font_Awesome_5_brands_discord_color.svg.png?width=25&height=25) 	| [Id](_ckeep_#8441)	|
+| ![Twitter](https://i.imgur.com/HeZ0zJn.png) 	| [CactusFire en Twitter](https://twitter.com/NeonRP3)	|
