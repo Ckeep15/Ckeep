@@ -25,7 +25,7 @@ Ahora mismo solo tengo un proyecto enmente **NeonRP**.
 
 |              MEDIA             	|       NOMBRE       	|
 |:----------------------------:	|:-------------------:	|
-| 📧  	| admin@cactusfire.xyz	|
-| ![Discord](_ckeep_#8441) 	| 
+| ![Email](unaietxeberria600@gmail.com)
+| ![Discord](_ckeep_#8441) 	 
 | ![Twitter](https://i.imgur.com/HeZ0zJn.png) 	
 | ![Instagram](https://i.imgur.com/tu01NLm.png) 	
